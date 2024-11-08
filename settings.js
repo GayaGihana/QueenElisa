@@ -20,7 +20,7 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://github.com/GayaGihana/GayaGihana/blob/main/GHOST.jpg',
   MONGODB_URL: 'mongodb+srv://Gihaa:324s45d@cluster0.alcex.mongodb.net/', 
-  PREFIX: '.$&',
+  PREFIX: '.',
   LANGUAGE: 'SI',
   PORT: 3000,
   BOT_NAME: '😉',
