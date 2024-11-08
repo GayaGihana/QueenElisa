@@ -56,10 +56,10 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'audio', // audio , document
+  SONG_DOWNLOAD_TYPE: 'song', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'video', // video
-  FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
-  TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
+  FB_DOWNLOAD_TYPE: 'fb', // hdvideo , sdvideo
+  TIKTOK_DOWNLOAD_TYPE: 'tt', // nowmvideo , wmvideo
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
     ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
