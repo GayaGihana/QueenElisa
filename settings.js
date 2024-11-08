@@ -18,10 +18,10 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: 'https://github.com/GayaGihana/GayaGihana/blob/main/GHOST.jpg',
   MONGODB_URL: '', 
   PREFIX: '.$&',
-  LANGUAGE: 'EN',
+  LANGUAGE: 'SI',
   PORT: 3000,
   BOT_NAME: '😉',
   OWNER_NAME: 'GG',
