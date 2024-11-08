@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://github.com/GayaGihana/GayaGihana/blob/main/GHOST.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://Gihaa:324s45d@cluster0.alcex.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'SI',
   PORT: 3000,
@@ -56,7 +56,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'song', // audio , document
+  SONG_DOWNLOAD_TYPE: 'audio', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'video', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
